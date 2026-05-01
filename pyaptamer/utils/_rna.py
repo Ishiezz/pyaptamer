@@ -1,4 +1,4 @@
-__author__ = ["nennomp"]
+__author__ = ["nennomp", "Ishiezz"]
 __all__ = [
     "dna2rna",
     "encode_rna",
